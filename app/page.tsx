@@ -15,8 +15,6 @@ export default function Home() {
       <About />
       <Skills />
       <Projects />
-      <Contact />
-      <Footer />
       <ThemeToggle />
     </main>
   )
