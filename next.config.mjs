@@ -10,7 +10,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/WebPortfolios',
 };
 
 export default nextConfig;
